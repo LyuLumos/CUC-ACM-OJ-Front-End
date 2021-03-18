@@ -1,4 +1,7 @@
 # CUC-ACM-OJ-Front-End
+
+**This repository is ARCHIVED on March 19th, 2021.**
+
 用于OJ的二次开发。
 
 Base on [QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
