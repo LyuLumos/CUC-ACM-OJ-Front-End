@@ -1,12 +1,10 @@
 # CUC-ACM-OJ-Front-End
 
-**This repository is ARCHIVED on March 19th, 2021.**
+**This repository is ARCHIVED on June 2nd, 2021.**
 
 用于OJ的二次开发。
 
-Base on [QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-
-（原文件太大了fork后下载不到本地 (╯‵□′)╯︵┻━┻）
+Base on [QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE), [Harry-zklcdc/OJ](https://github.com/Harry-zklcdc/OJ)
 
 ## Environment
 
